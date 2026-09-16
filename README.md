@@ -1,4 +1,4 @@
-## AFB Chat Bot WordPress Plugin
+## AFB Chat Bot WordPress Plugin ( Conventional ChatBOT - NON-AI )
 
 A WordPress plugin that allows your website visitors to get instant answers from a chatbot instead of a real human. All conversations can be forwarded to the site administrator through:
 
